@@ -1,5 +1,5 @@
 [package]
-name = "wasm-pack"
+name = "remix-wasm-pack"
 version = "0.1.0"
 authors = ["Nasim Akhtar"]
 edition = "2018"

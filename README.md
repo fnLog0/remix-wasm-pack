@@ -1,17 +1,14 @@
-# @wasm-pack
+# remix-wasm-pack
 
 The WebAssembly Rust Starter Templates enable efficient development of high-performance, cross-platform web apps, bridging modern browsers and server-side environments using Rust.
 
 ## Table of Contents
 
-- [@wasm-pack](#wasm-pack)
+- [remix-wasm-pack](#remix-wasm-pack)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-- [Clone the repository](#clone-the-repository)
-- [Build the Wasm code](#build-the-wasm-code)
-- [Install JavaScript dependencies](#install-javascript-dependencies)
 
 ## Getting Started
 
